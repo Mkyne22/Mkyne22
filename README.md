@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mkyne22
-- 👀 I’m interested in programming, algorithims, and data structures
-- 🌱 I’m currently learning python and tech ethics
+- 👀 I’m interested in front end development, design, algorithims, and data structures
+- 🌱 I recently graduated as a Computer Science and English double major
 
 
 <!---
